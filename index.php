@@ -8,6 +8,6 @@
     <body>
         <h1>Ma page web</h1>
         <p>Aujourd'hui nous sommes le <?php echo date('d/m/Y h:i:s'); ?>.</p>
-		<?php echo "Cette ligne a été écrite \"uniquement\" en PHP."; ?>
+		<?php echo "Cette ligne a été écrite \"uniquement\" en PHP."; ?> // test de commentaire
     </body>
 </html>
